@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+  margin: 0px;
+}
+body{
+    background-image:url(./img/pexels-dominika-roseclay-1089842.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+.menu-bar{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.menu-bar ul{
+    display:inline-flex; 
+    list-style: none;
+    color: rgb(92, 71, 112);
+}
+.menu-bar ul li{
+    margin: 15px;
+    width:120px;
+    padding: 15px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color: rgb(223, 146, 31);
+}
+ .menu-bar ul li:hover
+{
+    background-color: rgb(235, 190, 93);
+    border-radius: 100px;
+   
+}
+h1{
+text-align: center;
+font-size: 100px;
+color: antiquewhite;
+padding:50px;
+text-shadow: 1px 1px 2px rgb(211, 170, 113), 0 0 1em rgb(189, 113, 190), 0 0 0.2em rgb(189, 123, 200);
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(230, 143, 30);
+    margin-bottom: 30px;
+}
+    img{
+    margin-left: 550px;
+}
+.menu-bar ul  li a{
+text-decoration: none;
+color: rgb(203, 142, 63);
+
+
+}
+
+.menu-bar .fa{
+    margin-right: 100px;
+    }
+    .menu-bar ul li {
+        width: 120px;
+        margin:16px;
+        padding:10px;
+}
+
+.menu-bar ul li i {
+    font-size:30px;
+    color: rgb(224, 169, 91);
+    margin-right: 10px;
+}
+.sec-menu {
+display:none;
+}
+
+
+
+
+
+   
